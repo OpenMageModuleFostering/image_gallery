@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/image_gallery",
+    "name": "openmage-module-fostering\/image_gallery",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "image gallery on cms page",
     "authors": [
